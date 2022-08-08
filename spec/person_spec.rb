@@ -1,3 +1,5 @@
+require_relative "../lib/person"
+
 describe Person do
   
   context 'with a longer list of attributes' do
